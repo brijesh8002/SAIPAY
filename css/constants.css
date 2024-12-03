@@ -1,0 +1,14 @@
+:root {
+  --main_color: #fbb040;  /* Website Main Color */
+  --hover_color: #bf8632;
+
+  --white: #ffffff;  /* Login Main Color */
+  --primery-color: #45bfb4;
+  --dark-color: #353535;
+  --login-bg: rgba(170, 131, 22, 0.57);
+  --login-title-clr: #bf8632;
+
+  --main-color: #bf8632; /* Deshboard Main Color */
+  --btn_bgcolor: #bf8632;
+  --login-text-color: #bf8632e5;
+}
